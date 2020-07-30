@@ -1,4 +1,4 @@
-# This repo is no longer used. Please see  https://github.com/microsoft/devops-project-samples for samples of Azure DevOps Project
+# This repo was copied from the Azure Devops project and modified for D5D
 
 | Language | Platform | Author |
 | -------- | --------|--------|
