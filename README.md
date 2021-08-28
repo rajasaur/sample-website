@@ -10,7 +10,7 @@ Sample HTML/CSS web app that you can deploy to Azure.
 
 ## License
 
-See [LICENSE](LICENSE).
+See [LICENSE](LICENSE).  
 
 
 ## Contributing
